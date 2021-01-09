@@ -1,0 +1,12 @@
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/port.c
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+testing\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+testing\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+testing\port.o: ../Core/Inc/FreeRTOSConfig.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+testing\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
